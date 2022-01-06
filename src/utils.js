@@ -9,6 +9,7 @@ function createFolder(folderName) {
 }
 
 /*
+
   Função utilizada para filtrar dados de um array de objetos.
   A função obtém os dados de consulta do arquivo "user.json" (código pode ser refatorado para aceitar um argumento que indique o arquivo desejados.
   A função recebe a propriedade que será verificada e o dado utilizado para validação
